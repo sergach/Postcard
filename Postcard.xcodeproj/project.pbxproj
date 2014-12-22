@@ -13,6 +13,8 @@
 		A58F2B8B1A4767180058128E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A58F2B8A1A4767180058128E /* Images.xcassets */; };
 		A58F2B8E1A4767180058128E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A58F2B8C1A4767180058128E /* LaunchScreen.xib */; };
 		A58F2B9A1A4767180058128E /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A58F2B991A4767180058128E /* PostcardTests.swift */; };
+		A58F2BA41A476C8F0058128E /* Bo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A58F2BA31A476C8F0058128E /* Bo.jpg */; };
+		A58F2BA61A476F610058128E /* JRT.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A58F2BA51A476F610058128E /* JRT.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		A58F2B931A4767180058128E /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A58F2B981A4767180058128E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A58F2B991A4767180058128E /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		A58F2BA31A476C8F0058128E /* Bo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Bo.jpg; sourceTree = "<group>"; };
+		A58F2BA51A476F610058128E /* JRT.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = JRT.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		A58F2B811A4767180058128E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A58F2BA51A476F610058128E /* JRT.jpg */,
+				A58F2BA31A476C8F0058128E /* Bo.jpg */,
 				A58F2B821A4767180058128E /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				A58F2B891A4767180058128E /* Main.storyboard in Resources */,
 				A58F2B8E1A4767180058128E /* LaunchScreen.xib in Resources */,
+				A58F2BA61A476F610058128E /* JRT.jpg in Resources */,
+				A58F2BA41A476C8F0058128E /* Bo.jpg in Resources */,
 				A58F2B8B1A4767180058128E /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
